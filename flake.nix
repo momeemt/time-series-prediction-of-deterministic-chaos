@@ -21,6 +21,9 @@
             ruff
             python311Packages.numpy
             python311Packages.matplotlib
+            python311Packages.scipy
+            python311Packages.scikit-learn
+            python311Packages.fastdtw
           ];
         };
       }
